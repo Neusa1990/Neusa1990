@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Neusa1990
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Olá sou a Neusa Chapéu
+- 👀 Estudante de Gestão de TI.
+- 🌱 Estou aprendendo Desevolvimento Front-end
+- html. mysql. Javascript.Payton 
+- 💞️ Estou buscando Estágio
+- 📫 chapeuneusa3@gmail.com
+- ⚡ Determinada não sou de desitir facíl
 
-<!---
-Neusa1990/Neusa1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/neusachapeu">
+    <img heigh-"180cm" src="htps://github-readme-stats."
+</div>
+
