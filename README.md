@@ -29,6 +29,12 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
+Apaixonada por Tecnologia ela se refere a qualquer ferramenta, dispositivo ou processo que seja criado para resolver problemas ou melhorar a vida das pessoas.
+
+## Um video mostrando de como a tecnologia vem mudando vidas das pessoas
+[O que aprender sobre Tecnologia](https://youtu.be/ZsZ-3ZZMr0w?si=ObDrJkZyX4Za0azu)
+
+
 
 
 
