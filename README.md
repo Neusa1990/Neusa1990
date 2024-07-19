@@ -1,10 +1,4 @@
-- 👋 Olá sou a Neusa Chapéu
-- 👀 Estudante de Gestão de TI.
-- 🌱 Estou aprendendo Desevolvimento Front-end
-- html. mysql. Javascript.Payton 
-- 💞️ Estou buscando Estágio
-- 📫 chapeuneusa3@gmail.com
-- ⚡ Determinada não sou de desitir facíl
+
 ### Olá eu sou a Neusa Chapéu✋
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
