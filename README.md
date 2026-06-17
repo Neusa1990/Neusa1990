@@ -1,5 +1,6 @@
 
-#Olá, eu sou a Neusa! 👋
+## Olá, eu sou a Neusa! 👋
+
 ​Graduada em Gestão de Tecnologia da Informação & Analista de Dados
 ​Sou uma profissional que une a visão estratégica de processos e governação de TI com a capacidade técnica de extrair, limpar e analisar grandes volumes de dados para apoiar a tomada de decisões. Recentemente, certifiquei-me em Data Analytics pela TripleTen.
 ​🛠️ Tecnologias e Ferramentas:
