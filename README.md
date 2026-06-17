@@ -1,5 +1,21 @@
 
-### Olá eu sou a Neusa Chapéu✋
+#Olá, eu sou a Neusa! 👋
+​Graduada em Gestão de Tecnologia da Informação & Analista de Dados
+​Sou uma profissional que une a visão estratégica de processos e governação de TI com a capacidade técnica de extrair, limpar e analisar grandes volumes de dados para apoiar a tomada de decisões. Recentemente, certifiquei-me em Data Analytics pela TripleTen.
+​🛠️ Tecnologias e Ferramentas:
+​Linguagens de Programação e Dados: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+​Visualização de Dados & BI: Tableau Desktop, Tableau Public, Jupyter Notebook
+​Metodologias e Gestão: Governação de TI, Organização de Projetos, Análise Estatística (Testes de Hipóteses)
+​Controlo de Versão: Git & GitHub
+​📁 Projetos em Destaque:
+​🔹 Dashboard de Eficiência Operacional em Telecomunicações
+​Projeto final focado na otimização de operações de atendimento utilizando Python, SQL e Tableau.
+​Extração, tratamento e limpeza de dados reais com Python (Pandas) e SQL.
+​Aplicação de testes estatísticos de hipóteses (p-value) para validar variações nos tempos de chamadas.
+​Criação de um dashboard interativo no Tableau focado em ajudar supervisores a identificar e filtrar ineficiências operacionais por quadrantes.
+​📩 Vamos conversar?
+​LinkedIn
+​Email: [chapeuneusa3@gmail.com]
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
