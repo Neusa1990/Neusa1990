@@ -2,13 +2,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -50,6 +43,13 @@
 
 ###
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -57,5 +57,9 @@
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<p data-importer="text" align="left">Olá, eu sou a Neusa! 👋<br><br>Graduada em Gestão de Tecnologia da Informação & Analista de Dados. Sou uma profissional que tem uma visão estratégica de processos e governança de TI com a capacidade técnica de extrair, limpar e analisar grandes volumes de dados para apoiar uma tomada de decisões. Recentemente, me certifiquei em Data Analytics pela TripleTen.<br><br>Tecnologias e Ferramentas:<br><br>Linguagens de Programação e Dados: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL.<br><br>Visualização de Dados & BI: Tableau Desktop, Tableau Public, Jupyter Notebook.<br><br>Metodologias e Gestão: Governança de TI, Organização de Projetos, Análise Estatística (Testes de Hipóteses).<br><br>Controle de Versão: Git & GitHub.<br><br>Projetos em Destaque:<br><br>Dashboard de Eficiência Operacional em Telecomunicações: Projeto focado na otimização de operações de atendimento utilizando Python, SQL e Tableau. Extração, tratamento e limpeza de dados reais com Python (Pandas) e SQL. Aplicação de testes estatísticos de hipóteses (p-valor) para validar variações nos tempos de chamadas. Criação de um dashboard interativo no Tableau focado em ajudar supervisores a identificar e filtrar ineficiências operacionais por quadrantes.<br><br>Vamos conversar?<br>E-mail: chapeuneusa3@gmail.com</p>
 
 ###
