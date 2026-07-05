@@ -46,17 +46,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neusa1990&show_icons=true&theme=dracula" alt="Estatísticas" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neusa1990&layout=compact&theme=dracula" alt="Linguagens" />
-  <img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/output/github-contribution-grid-snake.svg" alt="Cobrinha" />
+  <br>
+  <img src="https://github.com/Neusa1990/Neusa1990/blob/output/github-contribution-grid-snake.svg" alt="Cobrinha" />
 </div>
-###
-
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <p data-importer="text" align="left">Olá, eu sou a Neusa! 👋<br><br>Graduada em Gestão de Tecnologia da Informação & Analista de Dados. Sou uma profissional que tem uma visão estratégica de processos e governança de TI com a capacidade técnica de extrair, limpar e analisar grandes volumes de dados para apoiar uma tomada de decisões. Recentemente, me certifiquei em Data Analytics pela TripleTen.<br><br>Tecnologias e Ferramentas:<br><br>Linguagens de Programação e Dados: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL.<br><br>Visualização de Dados & BI: Tableau Desktop, Tableau Public, Jupyter Notebook.<br><br>Metodologias e Gestão: Governança de TI, Organização de Projetos, Análise Estatística (Testes de Hipóteses).<br><br>Controle de Versão: Git & GitHub.<br><br>Projetos em Destaque:<br><br>Dashboard de Eficiência Operacional em Telecomunicações: Projeto focado na otimização de operações de atendimento utilizando Python, SQL e Tableau. Extração, tratamento e limpeza de dados reais com Python (Pandas) e SQL. Aplicação de testes estatísticos de hipóteses (p-valor) para validar variações nos tempos de chamadas. Criação de um dashboard interativo no Tableau focado em ajudar supervisores a identificar e filtrar ineficiências operacionais por quadrantes.<br><br>Vamos conversar?<br>E-mail: chapeuneusa3@gmail.com</p>
 
