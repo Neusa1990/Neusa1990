@@ -51,9 +51,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neusa1990&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neusa1990&layout=compact&theme=radical" alt="languages graph" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
