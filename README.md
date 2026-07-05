@@ -44,10 +44,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neusa1990&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neusa1990&layout=compact&theme=dracula" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neusa1990&show_icons=true&theme=dracula" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neusa1990&layout=compact&theme=dracula" alt="Linguagens" />
+  <img src="https://raw.githubusercontent.com/Neusa1990/Neusa1990/output/github-contribution-grid-snake.svg" alt="Cobrinha" />
 </div>
-
 ###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
