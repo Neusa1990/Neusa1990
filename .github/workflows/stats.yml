@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Neusa1990
           template: classic
