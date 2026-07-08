@@ -51,8 +51,13 @@
 
 ###
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Neusa1990&show_icons=true&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neusa1990&layout=compact&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neusa1990&theme=dracula" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neusa1990&theme=dracula" width="48%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neusa1990&theme=dracula" width="48%" />
 </div>
 ###
 
