@@ -1,7 +1,7 @@
 <h2 data-importer="text" align="left">Olá👋Eu sou a Neusa Chapéu</h2>
 
 
-<h4 data-importer="text" align="left">Graduada em Gestão de Tecnologia da Informação e Analista de Dados. Movida pela paixão em transformar dados em soluções tecnológicas.</h4>
+<h4 data-importer="text" align="left">Graduada em Gestão da Tecnologia da Informação e Analista de Dados. Apaixonada por tecnologia, análise de dados e desenvolvimento de soluções que geram impacto. Atualmente ampliando meus conhecimentos em Python, JavaScript e Desenvolvimento Web..</h4>
 
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
