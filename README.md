@@ -45,9 +45,11 @@
   </a>
 </div>
 
-  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neusa1990&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" />
-</div>
+
+ <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neusa1990&theme=dracula" />
+
+  <br><br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neusa1990&theme=dracula" width="48%" />
 
