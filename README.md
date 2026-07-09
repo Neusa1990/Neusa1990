@@ -1,14 +1,11 @@
 <h2 data-importer="text" align="left">Olá👋Eu sou a Neusa Chapéu</h2>
 
-###
 
 <h4 data-importer="text" align="left">Graduada em Gestão de Tecnologia da Informação e Analista de Dados. Movida pela paixão em transformar dados em soluções tecnológicas.</h4>
 
-###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
 </div>
 
-###
 
 <div data-importer="socials" align="left">
   <a href="mailto:chapeuneusa3@gmail.com" target="_blank">
@@ -49,7 +45,7 @@
   </a>
 </div>
 
-###
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neusa1990&theme=dracula" />
 
@@ -63,7 +59,7 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neusa1990&theme=dracula" width="48%" />
 </div>
-###
+
 
 
 <br clear="both">
