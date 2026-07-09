@@ -55,6 +55,10 @@
 
   <br><br>
 
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Neusa1990&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" />
+</div>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neusa1990&theme=dracula" width="48%" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neusa1990&theme=dracula" width="48%" />
